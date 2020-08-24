@@ -1,0 +1,10 @@
+release/main.o
+release/login.o
+release/student.o
+release/teacher.o
+release/manager.o
+release/global.o
+release/moc_login.o
+release/moc_student.o
+release/moc_teacher.o
+release/moc_manager.o

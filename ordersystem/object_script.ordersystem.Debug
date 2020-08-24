@@ -1,0 +1,10 @@
+debug/main.o
+debug/login.o
+debug/student.o
+debug/teacher.o
+debug/manager.o
+debug/global.o
+debug/moc_login.o
+debug/moc_student.o
+debug/moc_teacher.o
+debug/moc_manager.o
